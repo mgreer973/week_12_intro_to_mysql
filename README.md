@@ -13,7 +13,7 @@ Here you see an customer order.
 ![Alt text](/demoScreenShots/BamazonCustomerEx1.png?raw=true "Cust Order")
 
 Here you see inventory db after order.
-![Alt text](/demoScreenShots/BamazonCustomerAfter.png?raw=true "SQL After")
+![Alt text](/demoScreenShots/BamazonCustomerSQLAfter.png?raw=true "SQL After")
 
 Now the manager side.
 
