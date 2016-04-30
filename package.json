@@ -1,0 +1,23 @@
+{
+  "name": "week_12_intro_to_mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgreer973/week_12_intro_to_mysql.git"
+  },
+  "author": "Mike Greer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgreer973/week_12_intro_to_mysql/issues"
+  },
+  "homepage": "https://github.com/mgreer973/week_12_intro_to_mysql#readme",
+  "dependencies": {
+    "mysql": "^2.10.2",
+    "prompt": "^1.0.0"
+  }
+}
